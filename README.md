@@ -1,0 +1,1 @@
+Este proyecto busca libros de la API https://gutendex.com/books/ y lista autores vivos, libros en una base Posgres, etcétera. Se hizo a los fines de cumplir con los requisitos del curso Backen de ALURA ORACLE. 
